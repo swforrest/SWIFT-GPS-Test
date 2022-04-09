@@ -8,8 +8,11 @@ In reference to the index starting at ~4-6, the first locations were removed as 
 CSV column description:
 
 Index - index of location number
+
 Status - whether location was successful (3 or more satellites)
+
 Sats - number of satellites
+
 RTC-date - Real-Time Clock date: the date recorded by the clock on-board the device (in GMT time)
 RTC-time - Real-Time Clock time: the time recorded by the clock on-board the device (in GMT time)
 FIX-date - the actual date calculated from satellite data
